@@ -1,0 +1,210 @@
+#navbar{
+
+    padding-left: 220px;
+}
+
+#TopDiv{
+    /* background-color: black; */
+    height: 500px;
+    background-image: url('kitchen.jpg');
+}
+
+#TopDiv2{
+    /* background-color: black; */
+    height: 500px;
+    width: 100%;
+}
+
+#logout{
+    margin-left: 1150px;
+}
+
+#divA{
+    background-color: white;
+    height: 500px;
+    float: left;
+    width: 50%;
+}
+
+#divH{
+ margin-left: 20px;
+   
+}
+
+.button{
+    font-weight: bold;
+}
+
+
+#divB{
+    background-color: black;
+    height: 500px;
+    float: left;
+    width: 50%;  
+}
+
+#table{
+    border: 1px solid black;
+}
+
+#img10{
+margin-top: 27%;
+margin-left: 120px;
+/* background-image: url('Capture.PNG'); */
+width: 444px;
+height: 155px;
+}
+
+#img11{
+    /* background-image: url('police.jpeg'); */
+    width: 100%;
+    height: 100%;
+    }
+
+#Img1{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#Maindiv{
+    /* background-color: aqua; */
+    width: 100%;
+	margin:auto;
+    height: 430px;
+}
+
+#divI{
+    float:left;
+    margin-left: 120px;
+}
+
+#divII{
+    float:left;
+    margin-left: 20px;
+}
+
+#divIII{
+    float:left;
+    margin-left: 20px;
+}
+
+#CentrText{
+   margin-left: 550px;
+   font-weight: bold;
+}
+
+#footer{
+    /* margin-left: 160px; */
+    background-color: rgb(240, 240, 240);
+    color: black;
+    /* color: #3f51b5; */
+    font-weight: bold;
+    font-style: italic;
+}
+
+#textp{
+    padding-top: 27%;
+
+}
+
+a{
+        text-decoration: none;
+        font-weight: bold;
+        color:#0e0e0e;
+}
+
+#Pdiv{
+    
+     background-image: url('Productbg.jpg');
+    width: 100%;
+    height: 100%; 
+}
+
+#logo{
+    margin-left: 50px;
+    width: 150px;
+    height: 150 px;
+}
+
+#logo1{
+    width: 55px;
+    height: 55px;
+    margin-right: 40px;
+}
+
+
+#MainTxt{
+    font-size:50px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 10px;
+    padding-top: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-decoration:underline;
+    text-decoration-color: rgb(141, 141, 141);
+}
+
+#head{
+    height: 60px;
+    margin-left: 35%;
+  }
+  
+  #container{
+    float:left;
+    margin-bottom: 20px;
+    margin-right: 8px;
+     border: 1px solid rgb(130, 132, 136); 
+  }
+
+  #Txtsmall{
+    font-size: 17px;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #container2{
+    float:left;
+    margin-bottom: 20px;
+    margin-right: 8px;
+     border: 1px solid rgb(130, 132, 136); 
+     background-color: black;
+  }
+  
+  #bound{
+    margin: auto;
+  }
+  
+  #cart2{
+    margin-left: 1260px;
+  }
+
+  #cart3{
+    margin-left: 1260px;
+   
+  }
+
+  #art{
+    width:1250px;
+    margin: auto;
+  }
+
+  #upload{
+    width: 400px;
+    height: 250px;
+  }
+
+  #image{
+      height:200px;
+      width: 250px;
+  }
+
+#placeholder{
+    margin-right: 350px;
+    
+}
+
+.MuiTypography-colorPrimary{
+    color:black;
+}

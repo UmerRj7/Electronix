@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "63bac49d2f8d4b8c3ad34324"
+  },
+  "name": "Microwave",
+  "price": 500
+},{
+  "_id": {
+    "$oid": "63bf1bbca6acfee0aa908e15"
+  },
+  "name": "Laptop",
+  "price": 100000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bf1bdea6acfee0aa908e1f"
+  },
+  "name": "Alien Ware",
+  "price": 200000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfcd9441ac5b72c9e693b2"
+  },
+  "name": "TV",
+  "price": 200,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cce3056b85a0ce0e8facbf"
+  },
+  "name": "MacBook",
+  "price": 220000,
+  "__v": 0
+}]

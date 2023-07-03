@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "63baf8601e5a8141cbf8e738"
+  },
+  "role": "admin",
+  "name": "Abrar",
+  "email": "Abrar123@gmail.com",
+  "password": "$2a$10$n84lb3xjiY43QjTFCjxTAu9i3IVb25UaK1pjC07h.vPAOBicloHwO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bf057acfb3313fceb133e3"
+  },
+  "role": "user",
+  "name": "Zimam",
+  "email": "Zimamfarooq@gmail.com",
+  "password": "$2a$10$ObgG.az7fvXWta78q79ZBuv0q4pnchsoTo3a1Hyj0KJCsZcFUeFrm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfacf241d6b0fc7564dc43"
+  },
+  "role": "user",
+  "name": "umer",
+  "email": "rajaumer@email.com",
+  "password": "$2a$10$vRHm/ZMC1dVr.Yyu3kkweO.UgOeIdh1Q86ASMPb9/KTPcW5WQPw9q",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfbd303abcdac9e3497522"
+  },
+  "role": "user",
+  "name": "Raja Umer",
+  "email": "sp20-bse-036@cuilahore.edu.pk",
+  "password": "$2a$10$6CjK5EvWmECfcLsQLfmc1.06fifqlADAOd4lkuHOY0CxQl7sde7dq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3deb3c2b289d56945aef5"
+  },
+  "role": "user",
+  "name": "Abdullah",
+  "email": "abdullahmansoor1981@gmail.com",
+  "password": "$2a$10$zgoIBkUTvTVZoR8DZcwmYOs7vwp4rvaR/vZ9nvJuX7vETethNhs6G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5148ab3822485641da371"
+  },
+  "role": "user",
+  "name": "Dilawar",
+  "email": "Dilawarfarooq@gmail.com",
+  "password": "$2a$10$ZLTSpy3IvSLPOe.QBQfvPuTEj.diuDF1SWFq2QQHh1hBaSw57i0SS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c515c5b3822485641da37a"
+  },
+  "role": "user",
+  "name": "Abdul",
+  "email": "Qadirfarooq@gmail.com",
+  "password": "$2a$10$PzGS/RfOXMIiIBjJlH2Ap.CNkjjK8vPob91cTVaccxiWY21UbS7WG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ccd3a26b85a0ce0e8fac55"
+  },
+  "role": "user",
+  "name": "Behram",
+  "email": "behramraja@email.com",
+  "password": "$2a$10$ksxn16fP/LtFmLxOYCB52u81vD1U3ToyM67BO3aXTPaa8Us9.UQVy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce5f85307a089f249f0327"
+  },
+  "role": "user",
+  "name": "Zeeshan",
+  "email": "zeeshanShahhid123@email.com",
+  "password": "$2a$10$8DQwFXcjA/zrmkOVjPz.y.xElgzOeLIaT/okVGGcCy3yDrEkQbYf6",
+  "__v": 0
+}]
